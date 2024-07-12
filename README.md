@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 **[Kenil Dhola]**
-- LinkedIn: [Kenil Dhola](www.linkedin.com/in/kenil-dhola-6b363322b)
+- LinkedIn: [Kenil Dhola](www.linkedin.com/in/kenildhola010)
 - GitHub: [kenildhola010](https://github.com/kenildhola010)
 
 
