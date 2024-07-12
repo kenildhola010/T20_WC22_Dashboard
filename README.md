@@ -50,9 +50,8 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-- **Name**: Kenil Dhola
-- **LinkedIn**: [https://www.linkedin.com/in/kenidhola010]
-- **Email**: [kenildhola11@gmail.com]
-
+**[Kenil Dhola]**
+- LinkedIn: [Kenil Dhola](www.linkedin.com/in/kenil-dhola-6b363322b)
+- GitHub: [kenildhola010](https://github.com/kenildhola010)
 
 
